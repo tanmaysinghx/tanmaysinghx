@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay Singh</h1>
 <h3 align="center">Crafting Seamless User Experiences with Angular | Mastering Java Spring Boot | Architecting Scalable Solutions on AWS</h3>
-
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaysinghx&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaysinghx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmaysinghx" alt="tanmaysinghx" /></a> </p>
