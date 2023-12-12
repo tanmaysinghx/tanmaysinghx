@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Job Recruitment Portal | Hobby Project**
 
-- 🌱 I’m currently learning **React Native, Springboot and AWS Cloud**
+- 🌱 I’m currently learning **IOS Development, Java Spring Boot and AWS Cloud**
 
-- 👯 I’m looking to collaborate on **Angular and Springboot projects**
+- 👯 I’m looking to collaborate on **Angular, Java Spring Boot projects**
 
 - 💬 Ask me about **Angular**
 
