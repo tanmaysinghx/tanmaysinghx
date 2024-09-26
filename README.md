@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **tanmaysinghx@gmail.com**
 
+- Do visit **https://tanmaysingh.vercel.app/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
