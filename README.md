@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tanmay Singh</h1>
-<h3 align="center">As a passionate and versatile developer, I specialize in frontend technologies like Angular, React, and Next.js, creating seamless and intuitive user experiences. My journey in the tech world doesn't stop there; I'm actively working with and learning backend technologies such as Node.js and Spring Boot to build robust and scalable applications. Additionally, I am enhancing my skills in cloud computing with AWS and mastering DevOps practices using Docker and Jenkins for efficient CI/CD pipelines. My enthusiasm for technology extends to iOS development, where I am continually expanding my knowledge to craft innovative mobile solutions. With a commitment to excellence and a drive for continuous learning, I am dedicated to delivering high-quality software that meets the needs of users and businesses alike.</h3>
+<h3 align="center">Building Seamless User Experiences with Angular and React | Building and Learning Backend Services with Node.js, SpringBoot, Kafka, and Redis | Designing and Architecting Scalable Solutions on AWS</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaysinghx&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaysinghx" /> </p>
 
 
 
-- 🔭 I’m currently working on **Job Recruitment Portal | Hobby Project**
+- 🔭 I’m currently working on **Ticket Management SAAS application**
 
-- 🌱 I’m currently learning **IOS Development, Java Spring Boot and AWS Cloud**
+- 🌱 I’m currently learning **Node.js and CICD Pipelines using AWS and Jenkins**
 
-- 👯 I’m looking to collaborate on **Angular, Java Spring Boot projects**
+- 👯 I’m looking to collaborate on **Angular, React, Node.js projects**
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Angular and Node.js**
 
 - 📫 How to reach me **tanmaysinghx@gmail.com**
 
