@@ -14,6 +14,7 @@
 - 🌱 Exploring **Cloud Infrastructure (AWS)** & **DevOps Automation (Jenkins, Docker)**  
 - 💬 Ask me about **Angular, Node.js, Spring Boot, or Kafka**  
 - 👯 Open to collaborating on **Full Stack & Scalable Microservice projects**  
+- 📦 Also publishing **npm packages** under [tanmaysinghx99](https://www.npmjs.com/settings/tanmaysinghx99/packages)  
 - 📫 Reach me at **tanmaysinghx@gmail.com**  
 - 🌐 Portfolio → [tanmaysingh.vercel.app](https://tanmaysingh.vercel.app/)  
 - ⚡ Fun fact → I write cleaner code when the playlist is 🔥  
@@ -42,6 +43,14 @@
 
 ---
 
+### 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanmaysinghx&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 📊 GitHub Stats  
 
 <p align="center">
@@ -55,6 +64,31 @@
 
 ---
 
+### 📦 Developer Footprint  
+
+<p align="center">
+  <a href="https://www.npmjs.com/settings/tanmaysinghx99/packages">
+    <img src="https://img.shields.io/badge/npm-Published%20Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Packages" />
+  </a>
+  <a href="https://github.com/tanmaysinghx?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github" alt="GitHub Repos" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaysinghx&repo=ts-auth-service-1625&theme=default" alt="Pinned Repo" />
+</p>
+
+---
+
+### 📈 Contribution Graph Animation  
+
+<p align="center">
+  <img src="https://github.com/tanmaysinghx/tanmaysinghx/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ### 🤝 Connect With Me  
 
 <p align="center">
@@ -62,6 +96,7 @@
   <a href="https://www.linkedin.com/in/tanmaysinghx"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://tanmaysingh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel" /></a>
   <a href="https://github.com/tanmaysinghx"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.npmjs.com/settings/tanmaysinghx99/packages"><img src="https://img.shields.io/badge/NPM-View%20Profile-CB3837?style=for-the-badge&logo=npm" /></a>
 </p>
 
 ---
