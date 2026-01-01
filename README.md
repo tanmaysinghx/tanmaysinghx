@@ -10,9 +10,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🧠 About Me  
-- 🔭 Currently building a **Ticket Management SaaS Application**  
+- 🔭 Currently building **[Aether](https://github.com/tanmaysinghx/aether)** - A Next-Generation Video Streaming Platform (Angular + Spring Boot + FFmpeg)
 - 🌱 Exploring **Cloud Infrastructure (AWS)** & **DevOps Automation (Jenkins, Docker)**  
-- 💬 Ask me about **Angular, Node.js, Spring Boot, or Kafka**  
+- 💬 Ask me about **Angular, Node.js, Spring Boot, FFmpeg, or Kafka**  
 - 👯 Open to collaborating on **Full Stack & Scalable Microservice projects**  
 - 📦 Also publishing **npm packages** under [tanmaysinghx99](https://www.npmjs.com/settings/tanmaysinghx99/packages)  
 - 📫 Reach me at **tanmaysinghx@gmail.com**  
@@ -36,7 +36,7 @@
 | **Frontend** | Angular, TypeScript, SCSS, Bootstrap |
 | **Backend** | Node.js, Express.js, Java, Spring Boot |
 | **Databases** | MySQL, Redis |
-| **Messaging / Streaming** | Kafka |
+| **Media & Messaging** | **FFmpeg**, Kafka |
 | **DevOps & Tools** | Docker, Jenkins, Git, GitHub Actions |
 | **Cloud & Infra** | AWS EC2, S3, RDS, CloudWatch |
 | **Design & Wireframing** | Figma |
