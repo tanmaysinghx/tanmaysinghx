@@ -9,13 +9,22 @@
 
 ---
 
-### 🏛️ Architectural Expertise
-I focus on building resilient, high-throughput applications using modern architectural patterns:
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- **Modular Monoliths:** Designing loosely coupled modules within a single deployment unit to reduce cognitive load and deployment complexity while maintaining clear domain boundaries.
-- **Microservices:** Orchestrating distributed systems with **Spring Cloud**, utilizing **Kafka** for event-driven communication and **Redis** for high-speed caching.
-- **Modern Java:** Leveraging **Java 21 Virtual Threads (Project Loom)** for high-concurrency processing and efficient resource utilization in Spring Boot 3.x.
-- **Scalable Frontend:** Building performant SPAs with **Angular**, focusing on **Standalone Components**, **Signals** for reactive state, and **RxJS** for complex async flows.
+### 🧠 Profile Overview
+- 🚀 **System Design:** Building **Modular Monoliths** and **Microservices** with a focus on domain-driven design.
+- ☕ **Modern Java:** Leveraging **Java 21 Virtual Threads** and **Spring Boot 3** for high-throughput backends.
+- 🅰️ **Frontend Engineering:** Crafting reactive UIs using **Angular**, **Signals**, and **RxJS**.
+- ☁️ **Cloud Infrastructure:** Architecting scalable environments on **AWS** (EC2, S3, RDS, CloudWatch).
+- 📦 **Open Source:** Maintaining [npm packages](https://www.npmjs.com/~tanmaysinghx99) for the developer community.
+
+---
+
+### 🏛️ Architectural Expertise
+
+* **Modular Monoliths:** Designing encapsulated modules to ensure easy transitions to Microservices when needed.
+* **Microservices:** Orchestrating services with **Spring Cloud**, **Kafka** for events, and **Redis** for state.
+* **DevOps:** Automating deployments via **Jenkins**, **Docker**, and **GitHub Actions**.
 
 ---
 
@@ -23,38 +32,30 @@ I focus on building resilient, high-throughput applications using modern archite
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Core Backend** | **Java 21**, **Spring Boot 3.x**, Hibernate, Spring Security (OAuth2/JWT) |
-| **Core Frontend** | **Angular**, TypeScript, RxJS, SCSS, Tailwind CSS |
-| **System Design** | Modular Monoliths, Microservices, Event-Driven Architecture, CQRS |
-| **Cloud (AWS)** | **EC2**, **S3**, **RDS**, Lambda, CloudWatch, IAM |
-| **DevOps** | Docker, Jenkins Pipelines, GitHub Actions, Terraform (Basic) |
-| **Messaging** | **Apache Kafka**, RabbitMQ |
+| **Core Backend** | **Java 21**, **Spring Boot 3.x**, Hibernate, Spring Security |
+| **Core Frontend** | **Angular**, TypeScript, RxJS, SCSS, Tailwind |
+| **Cloud (AWS)** | **EC2**, **S3**, **RDS**, Lambda, IAM |
+| **Messaging/Data** | **Apache Kafka**, **Redis**, MySQL, FFmpeg |
 
 ---
 
-### 🚀 Featured Engineering Project
-<div align="center">
-  <a href="https://github.com/tanmaysinghx/aether">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaysinghx&repo=aether&theme=transparent&title_color=0078ff&show_owner=true" alt="Aether Project" />
-  </a>
-</div>
+### 📊 GitHub Stats & Impact
 
-**[Aether](https://github.com/tanmaysinghx/aether) - Next-Gen Video Streaming**
-* **Architecture:** Transitioned from a Modular Monolith to Microservices to handle intensive **FFmpeg** processing.
-* **Scalability:** Implemented **Kafka** for asynchronous transcoding jobs to prevent bottlenecking the main API.
-* **Cloud:** Deployed on **AWS** utilizing S3 for storage and EC2 for compute-heavy tasks.
-
----
-
-### 📊 Engineering Impact
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmaysinghx&show_icons=true&theme=transparent&hide_border=true&title_color=0078ff&icon_color=0078ff" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaysinghx&layout=compact&theme=transparent&hide_border=true&title_color=0078ff&icon_color=0078ff" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmaysinghx&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaysinghx&theme=default&hide_border=false" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaysinghx&layout=compact&theme=default&hide_border=false" width="49%" alt="Top Languages"/>
+  <a href="https://github.com/tanmaysinghx/aether">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaysinghx&repo=aether&theme=default" width="49%" alt="Featured Project" />
+  </a>
 </p>
 
 ---
 
-### 🤝 Connect & Collaborate
+### 🤝 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/tanmaysinghx"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tanmaysinghx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
