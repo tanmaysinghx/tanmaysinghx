@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=Java+21+%2B+Spring+Boot+3.x;Modular+Monolith+%7C+Microservices;Angular+17%2B+(Signals+%2F+RxJS);LLMs+%2B+LangChain4j+%7C+Vector+Databases" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=Java+25+%2B+Spring+Boot+4.x;Modular+Monolith+%7C+Microservices;Angular+21%2B+(Signals+%2F+RxJS);LLMs+%2B+LangChain4j+%7C+Vector+Databases" alt="Typing Animation" />
 </p>
 
 ---
