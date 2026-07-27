@@ -76,6 +76,7 @@
   <a href="mailto:tanmaysinghx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://tanmaysinghx.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
+
 ---
 
 ### 📈 Profile Views
@@ -86,4 +87,5 @@
   <img src="https://komarev.com/ghpvc/?username=tanmaysinghx&label=Profile+Views&color=0078ff&style=flat-square" alt="Profile views" />
 </p>
 
-<br/>
+---
+
