@@ -59,13 +59,35 @@
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Connect & Collaborate
+
 <p align="left">
   <a href="https://www.linkedin.com/in/tanmaysinghx"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tanmaysinghx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://tanmaysingh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-<p align="right">
+**Would you like to meet me?**  
+If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda.
+
+---
+*I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
+
+*If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and use it.* 
+---
+
+### 📈 Profile Views
+*Counting of visitors to this page started from June 12, 2022.*
+
+<p align="left">
+  <img src="https://count.getloli.com/get/@BEPb.github.readme" alt="Loli Counter" />
   <img src="https://komarev.com/ghpvc/?username=tanmaysinghx&label=Profile+Views&color=0078ff&style=flat-square" alt="Profile views" />
 </p>
+
+<br/>
+
+[for the future hacker...](https://referral.hackthebox.com/mz8gTFM)
+
+[MIT](LICENSE)
+
+![](assets/Bottom_down.svg)
