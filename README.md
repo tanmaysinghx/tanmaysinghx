@@ -47,12 +47,11 @@
 
 | Certification | Issuer | Credential ID | Expiry |
 | :--- | :--- | :--- | :--- |
-| ![GitHub Copilot](https://img.shields.io/badge/Microsoft-GitHub_Copilot-181717?style=flat-square&logo=github) | Microsoft | `B94AF1A881AD1347` | Jun 2028 |
-| ![Azure Fundamentals](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) | Microsoft | `94C369F93FF70A31` | No Expiry |
-| ![AWS Developer Associate](https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | AWS | `e6e9e3a34d224dc29a36ccdf1336cb32` | Aug 2028 |
-| ![AWS Solutions Architect](https://img.shields.io/badge/AWS_Certified-Solutions_Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | AWS | `553056fb23f04e4abe367a7a1dbd1684` | Jul 2028 |
-| ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | AWS | `2126d0468c3646a590f09012a4ec8c95` | Jun 2028 |
-
+| [![GitHub Copilot](https://img.shields.io/badge/Microsoft-GitHub_Copilot-181717?style=flat-square&logo=github)](YOUR_VERIFICATION_LINK_HERE) | Microsoft | `B94AF1A881AD1347` | Jun 2028 |
+| [![Azure Fundamentals](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](YOUR_VERIFICATION_LINK_HERE) | Microsoft | `94C369F93FF70A31` | No Expiry |
+| [![AWS Developer Associate](https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](YOUR_VERIFICATION_LINK_HERE) | AWS | `e6e9e3a34d224dc29a36ccdf1336cb32` | Aug 2028 |
+| [![AWS Solutions Architect](https://img.shields.io/badge/AWS_Certified-Solutions_Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](YOUR_VERIFICATION_LINK_HERE) | AWS | `553056fb23f04e4abe367a7a1dbd1684` | Jul 2028 |
+| [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](YOUR_VERIFICATION_LINK_HERE) | AWS | `2126d0468c3646a590f09012a4ec8c95` | Jun 2028 |
 ---
 
 ### 📊 GitHub Stats & Impact
