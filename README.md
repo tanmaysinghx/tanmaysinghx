@@ -83,7 +83,6 @@
 *Counting of visitors to this page started from June 12, 2022.*
 
 <p align="left">
-  <img src="https://count.getloli.com/get/@BEPb.github.readme" alt="Loli Counter" />
   <img src="https://komarev.com/ghpvc/?username=tanmaysinghx&label=Profile+Views&color=0078ff&style=flat-square" alt="Profile views" />
 </p>
 
