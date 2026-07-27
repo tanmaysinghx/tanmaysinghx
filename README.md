@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm <span style="color:#0078ff">Tanmay Singh</span> 👋</h1>
 <p align="center">
-  <strong>Software Engineer | Specialized in Scalable Distributed Systems & AI Integration</strong>
+  <strong>Software Engineer | Specialized in Scalable Distributed Systems & Full-Stack Development</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=Java+25+%2B+Spring+Boot+4.x;Modular+Monolith+%7C+Microservices;Angular+21%2B+(Signals+%2F+RxJS);LLMs+%2B+LangChain4j+%7C+Vector+Databases" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=Java+25+%2B+Spring+Boot+4.x;Modular+Monolith+%7C+Microservices;Angular+21%2B+(Signals+%2F+RxJS);Cloud+Native+%7C+AWS+Architecture" alt="Typing Animation" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ### 🧠 Profile Overview
 - 🚀 **System Design:** Building **Modular Monoliths** and **Microservices** with a focus on domain-driven design.
 - ☕ **Modern Java:** Leveraging **Java 25 Virtual Threads** and **Spring Boot 4** for high-throughput backends.
-- 🤖 **AI Engineering:** Integrating **LLMs**, building **RAG (Retrieval-Augmented Generation)** pipelines, and managing AI agents.
+- ⚙️ **API Development:** Designing robust RESTful APIs and asynchronous event-driven architectures.
 - 🅰️ **Frontend Engineering:** Crafting reactive UIs using **Angular**, **Signals**, and **RxJS** and **SingleSPA** and **Webpack**.
 - ☁️ **Cloud Infrastructure:** Architecting scalable environments on **AWS** (EC2, S3, RDS, CloudWatch, EKS).
 - 📦 **Open Source:** Maintaining [npm packages](https://www.npmjs.com/~tanmaysinghx99) for the developer community.
@@ -25,7 +25,7 @@
 
 * **Modular Monoliths:** Designing encapsulated modules to ensure easy transitions to Microservices when needed.
 * **Microservices:** Orchestrating services with **Spring Cloud**, **Kafka** for events, and **Redis** for state.
-* **Intelligent Systems:** Implementing semantic search, function calling, and vector embeddings into production backend pipelines.
+* **Event-Driven Architecture:** Implementing asynchronous communication, background processing, and robust messaging pipelines.
 * **DevOps:** Automating deployments via **Jenkins**, **Docker**, and **GitHub Actions**.
 
 ---
@@ -35,11 +35,9 @@
 | Layer | Technologies |
 | :--- | :--- |
 | **Core Backend** | **Java 25**, **Spring Boot 4.x**, Hibernate, Spring Security, JDBC, Lombok, Spring Validation |
-| **AI & LLM Orchestration** | **LangChain4j**, **Spring AI**, OpenAI API, Hugging Face, Ollama |
-| **Vector Databases** | **Pgvector**, **Milvus**, Pinecone |
 | **Core Frontend** | **Angular**, TypeScript, RxJS, SCSS, Tailwind |
 | **Cloud (AWS)** | **EC2**, **S3**, **RDS**, **EKS**, Lambda, IAM |
-| **Messaging/Data** | **Apache Kafka**, **Redis**, MySQL, FFmpeg |
+| **Messaging/Data** | **Apache Kafka**, **Redis**, MySQL, PostgreSQL, FFmpeg |
 
 ---
 
@@ -52,6 +50,7 @@
 | [![AWS Developer Associate](https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](YOUR_VERIFICATION_LINK_HERE) | AWS | `e6e9e3a34d224dc29a36ccdf1336cb32` | Aug 2028 |
 | [![AWS Solutions Architect](https://img.shields.io/badge/AWS_Certified-Solutions_Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](YOUR_VERIFICATION_LINK_HERE) | AWS | `553056fb23f04e4abe367a7a1dbd1684` | Jul 2028 |
 | [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](YOUR_VERIFICATION_LINK_HERE) | AWS | `2126d0468c3646a590f09012a4ec8c95` | Jun 2028 |
+
 ---
 
 ### 📊 GitHub Stats & Impact
