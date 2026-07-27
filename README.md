@@ -87,6 +87,3 @@
 </p>
 
 <br/>
-
-
-![](assets/Bottom_down.svg)
