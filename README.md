@@ -32,24 +32,24 @@
 
 ### 🛠️ Tech Stack & Infrastructure
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Core Backend** | **Java 25**, **Spring Boot 4.x**, Hibernate, Spring Security, JDBC, Lombok, Spring Validation |
-| **Core Frontend** | **Angular**, TypeScript, RxJS, SCSS, Tailwind |
-| **Cloud (AWS)** | **EC2**, **S3**, **RDS**, **EKS**, Lambda, IAM |
-| **Messaging/Data** | **Apache Kafka**, **Redis**, MySQL, PostgreSQL, FFmpeg |
+| Layer              | Technologies                                                                                  |
+| :----------------- | :-------------------------------------------------------------------------------------------- |
+| **Core Backend**   | **Java 25**, **Spring Boot 4.x**, Hibernate, Spring Security, JDBC, Lombok, Spring Validation |
+| **Core Frontend**  | **Angular**, TypeScript, RxJS, SCSS, Tailwind                                                 |
+| **Cloud (AWS)**    | **EC2**, **S3**, **RDS**, **EKS**, Lambda, IAM                                                |
+| **Messaging/Data** | **Apache Kafka**, **Redis**, MySQL, PostgreSQL, FFmpeg                                        |
 
 ---
 
 ### 🏆 Certifications
 
-| Certification | Issuer | Credential ID | Expiry |
-| :--- | :--- | :--- | :--- |
-| [![GitHub Copilot](https://img.shields.io/badge/Microsoft-GitHub_Copilot-181717?style=flat-square&logo=github)](YOUR_VERIFICATION_LINK_HERE) | Microsoft | `B94AF1A881AD1347` | Jun 2028 |
-| [![Azure Fundamentals](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](YOUR_VERIFICATION_LINK_HERE) | Microsoft | `94C369F93FF70A31` | No Expiry |
-| [![AWS Developer Associate](https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](YOUR_VERIFICATION_LINK_HERE) | AWS | `e6e9e3a34d224dc29a36ccdf1336cb32` | Aug 2028 |
-| [![AWS Solutions Architect](https://img.shields.io/badge/AWS_Certified-Solutions_Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](YOUR_VERIFICATION_LINK_HERE) | AWS | `553056fb23f04e4abe367a7a1dbd1684` | Jul 2028 |
-| [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](YOUR_VERIFICATION_LINK_HERE) | AWS | `2126d0468c3646a590f09012a4ec8c95` | Jun 2028 |
+| Certification                                                                                                                                                                          | Issuer    | Credential ID                      | Expiry    |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--------------------------------- | :-------- |
+| [![GitHub Copilot](https://img.shields.io/badge/Microsoft-GitHub_Copilot-181717?style=flat-square&logo=github)](YOUR_VERIFICATION_LINK_HERE)                                           | Microsoft | `B94AF1A881AD1347`                 | Jun 2028  |
+| [![Azure Fundamentals](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](YOUR_VERIFICATION_LINK_HERE) | Microsoft | `94C369F93FF70A31`                 | No Expiry |
+| [![AWS Developer Associate](https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](YOUR_VERIFICATION_LINK_HERE)      | AWS       | `e6e9e3a34d224dc29a36ccdf1336cb32` | Aug 2028  |
+| [![AWS Solutions Architect](https://img.shields.io/badge/AWS_Certified-Solutions_Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](YOUR_VERIFICATION_LINK_HERE)      | AWS       | `553056fb23f04e4abe367a7a1dbd1684` | Jul 2028  |
+| [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](YOUR_VERIFICATION_LINK_HERE)        | AWS       | `2126d0468c3646a590f09012a4ec8c95` | Jun 2028  |
 
 ---
 
@@ -69,6 +69,55 @@
 </p>
 
 ---
+
+---
+
+### 🧠 DSA Journey
+
+> Tracking my journey through Data Structures & Algorithms by solving
+> LeetCode problems and documenting every solution.
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>🔥 Problems Solved</strong><br>
+      <h2>45+</h2>
+    </td>
+    <td align="center">
+      <strong>🟢 Easy</strong><br>
+      <h2>41</h2>
+    </td>
+    <td align="center">
+      <strong>🟡 Medium</strong><br>
+      <h2>3</h2>
+    </td>
+    <td align="center">
+      <strong>🔴 Hard</strong><br>
+      <h2>1</h2>
+    </td>
+  </tr>
+</table>
+
+#### 📚 Patterns & Topics
+
+`Arrays` · `Strings` · `Hash Table` · `Two Pointers` · `Stack` · `Binary Search` · `Sorting` · `Bit Manipulation` · `Heap` · `Sliding Window` · `Dynamic Programming` · `Backtracking`
+
+#### 🚀 Current Journey
+
+```text
+Foundation
+   ↓
+Arrays ── Strings ── Hashing
+   ↓
+Two Pointers ── Stack ── Binary Search
+   ↓
+Sliding Window ── Heap ── Sorting
+   ↓
+Trees ── Graphs ── Backtracking
+   ↓
+Dynamic Programming
+   ↓
+Interview Ready
 
 ### 🤝 Connect & Collaborate
 
