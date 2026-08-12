@@ -57,25 +57,16 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=tanmaysinghx99&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"
+    src="./profile/stats.svg"
     alt="GitHub Stats"
+    height="180"
   />
-</p>
-
-<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaysinghx99&layout=compact&langs_count=8&hide_border=true"
+    src="./profile/top-langs.svg"
     alt="Top Languages"
+    height="180"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=tanmaysinghx99&no-frame=true&no-bg=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
-</p>
-
 
 ---
 
