@@ -55,11 +55,27 @@
 
 ### 📊 GitHub Stats & Impact
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tanmaysinghx99&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true" alt="Tanmay Singh's GitHub Stats" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaysinghx99&layout=compact&langs_count=8&hide_border=true" alt="Tanmay Singh's Top Languages" height="180" /> </p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tanmaysinghx99&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=tanmaysinghx99&hide_border=true" alt="Tanmay Singh's GitHub Streak" /> </p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaysinghx99&layout=compact&langs_count=8&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tanmaysinghx99&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="Tanmay Singh's GitHub Trophies" /> </p>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=tanmaysinghx99&no-frame=true&no-bg=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
+</p>
+
 
 ---
 
