@@ -133,33 +133,6 @@
   Solving problems, identifying patterns, and building strong problem-solving fundamentals one question at a time.
 </blockquote>
 
-
-#### 📚 Patterns & Topics
-
-`Arrays` · `Strings` · `Hash Table` · `Two Pointers` · `Stack` · `Binary Search` · `Sorting` · `Bit Manipulation` · `Heap` · `Sliding Window` · `Dynamic Programming` · `Backtracking`
-
-#### 🚀 Current Journey
-
-```text
-Foundation
-   ↓
-Arrays ── Strings ── Hashing
-   ↓
-Two Pointers ── Stack ── Binary Search
-   ↓
-Sliding Window ── Heap ── Sorting
-   ↓
-Trees ── Graphs ── Backtracking
-   ↓
-Dynamic Programming
-   ↓
-Interview Ready
-```
-
-> **Consistency over intensity.**
->
-> Solving problems, identifying patterns, and building strong problem-solving fundamentals one question at a time.
-
 ---
 
 ### 🤝 Connect & Collaborate
