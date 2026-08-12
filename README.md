@@ -76,13 +76,63 @@
 
 ### 🧠 DSA Journey
 
-> Tracking my journey through **Data Structures & Algorithms** by solving LeetCode problems and documenting every solution.
+<p align="center">
+  <strong>Building problem-solving depth, one pattern at a time.</strong>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <strong>🧩 Foundations</strong><br><br>
+      Arrays<br>
+      Strings<br>
+      Hashing<br>
+      Sorting
+    </td>
+    <td align="center" width="180">
+      <strong>⚙️ Core Patterns</strong><br><br>
+      Two Pointers<br>
+      Stack<br>
+      Binary Search<br>
+      Sliding Window
+    </td>
+    <td align="center" width="180">
+      <strong>🚀 Advanced</strong><br><br>
+      Trees<br>
+      Graphs<br>
+      Backtracking<br>
+      Dynamic Programming
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <strong>📈 Journey</strong>
+</p>
+
+<p align="center">
+  🟢 Foundations
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  🔵 Core Patterns
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  🟣 Advanced Patterns
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  🏆 Interview Ready
+</p>
 
 <p align="center">
   <a href="https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man">
-    <img src="https://img.shields.io/badge/🔥_LeetCode_Solutions-View_Repository-181717?style=for-the-badge&logo=github" alt="LeetCode Solutions Repository">
+    <img src="https://img.shields.io/badge/🔥_Explore_My_DSA_Solutions-181717?style=for-the-badge&logo=github" alt="Explore DSA Solutions">
   </a>
 </p>
+
+<blockquote>
+  <strong>Consistency over intensity.</strong><br>
+  Solving problems, identifying patterns, and building strong problem-solving fundamentals one question at a time.
+</blockquote>
+
 
 #### 📚 Patterns & Topics
 
