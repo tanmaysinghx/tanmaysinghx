@@ -43,6 +43,29 @@
 
 ---
 
+### 🌍 Open Source Contributions
+
+Recent work I've contributed to projects outside my own repos:
+
+#### 🦀 [AlienTechSoftware/notecraft](https://github.com/AlienTechSoftware/notecraft) — open-source note-taking app in pure Rust
+* 🟡 [feat(boxes): remove a blank box once the caret leaves it](https://github.com/AlienTechSoftware/notecraft/pull/48) — *open, Nov 2026*
+* ✅ [fix: stop a click beside an object from deadlocking the window](https://github.com/AlienTechSoftware/notecraft/pull/16) — *merged, Oct 2026*
+* ✅ [fix(rtl): lay a line out in the page's direction, not its first letter](https://github.com/AlienTechSoftware/notecraft/pull/13) — *merged, Oct 2026*
+
+#### 🔐 [GetAppCraft-Inc/portal-sso](https://github.com/GetAppCraft-Inc/portal-sso) — Java SSO / OIDC identity portal
+* ✅ [feat: add login URL to applications for OIDC third-party initiated login](https://github.com/GetAppCraft-Inc/portal-sso/pull/15) — *merged, Nov 2026*
+* ✅ [feat: implement setup wizard for initial configuration](https://github.com/GetAppCraft-Inc/portal-sso/pull/14) — *merged, Nov 2026*
+* ✅ [fix: secure and smooth first-run setup; add browser E2E gate to CI](https://github.com/GetAppCraft-Inc/portal-sso/pull/1) — *merged, Oct 2026*
+* ✅ [chore: add Dependabot for dependency and security updates](https://github.com/GetAppCraft-Inc/portal-sso/pull/2) — *merged, Oct 2026*
+* ✅ [Bug fixes](https://github.com/GetAppCraft-Inc/portal-sso/pull/13) — *merged, Oct 2026*
+
+#### 🎫 [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) — open-source help desk & issue tracker (⭐ 3k+)
+* ✅ [Modified random digit generator](https://github.com/Peppermint-Lab/peppermint/pull/370) — *merged, Sep 2024*
+
+👉 [See all my pull requests](https://github.com/pulls?q=is%3Apr+author%3Atanmaysinghx+-user%3Atanmaysinghx)
+
+---
+
 ### 🏆 Certifications
 
 | Certification                                                                                                                                                                            | Issuer    | Credential ID                      | Expiry    |
